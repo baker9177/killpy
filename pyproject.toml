@@ -1,0 +1,5 @@
+[project]
+name = "killpy"
+version = "0.1.0"
+description = "🐍 CLI tool to find and delete unused Python virtual environments (.venv, poetry, conda, pipenv, uv). Reclaim disk space effortlessly — supports bulk delete, size reporting, and pycache cleanup."
+requires-python = ">=3.10"
