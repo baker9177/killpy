@@ -5,3 +5,4 @@ description = "🐍 CLI tool to find and delete unused Python virtual environmen
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # handle the edge case from the last release
+# handle the edge case from the last release
